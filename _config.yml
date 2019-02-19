@@ -16,5 +16,3 @@ exclude:
   - node_modules
   - Gemfile
   - vendor
-
-theme: jekyll-theme-midnight
